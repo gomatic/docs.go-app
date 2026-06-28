@@ -1,6 +1,6 @@
 {
-  "baseURL": "https://example.org/",
-  "title": "Project Documentation",
+  "baseURL": "https://gomatic.github.io/docs.go-app/",
+  "title": "go-app",
   "publishDir": "_site",
   "enableRobotsTXT": true,
   "markup": {
@@ -12,6 +12,6 @@
     }
   },
   "params": {
-    "description": "Public documentation for the project."
+    "description": "Public documentation for gomatic/go-app — the urfave/cli/v3 application framework and run harness shared by gomatic CLIs."
   }
 }
